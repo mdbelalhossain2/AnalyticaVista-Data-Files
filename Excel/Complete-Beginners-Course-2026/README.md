@@ -4,23 +4,17 @@ These files accompany the AnalyticaVista YouTube video:
 
 **Microsoft Excel for Beginners | Complete Excel Course 2026**
 
-## Download the Course Files
+## Course Files
 
-### 1. Starter Workbook
-
-[Download the Starter Workbook](01_Excel_Course_Starter.xlsx.xlsx?raw=true)
+### 1. 01_Excel_Course_Starter.xlsx.xlsx
 
 Begin the course with this workbook. It contains the original column headings and the first five fictional participant records. During the course, you will enter Participant P006 and practice entering, editing, organizing, and formatting data.
 
-### 2. Full 200-Participant Dataset
-
-[Download the 200-Participant Dataset](02_Workforce_Training_Data_200_Participants.xlsx.xlsx?raw=true)
+### 2. 02_Workforce_Training_Data_200_Participants.xlsx.xlsx
 
 Use this workbook when the course transitions from the small practice dataset to the complete 200-participant dataset.
 
-### 3. Completed Course Workbook
-
-[Download the Completed Course Workbook](03_Excel_Course_Completed_Workbook.xlsx.xlsx?raw=true)
+### 3. 03_Excel_Course_Completed_Workbook.xlsx.xlsx
 
 Use this workbook after completing the course to compare your work with the finished project, including formulas, functions, data cleaning, XLOOKUP, PivotTables, charts, and the final report.
 
@@ -30,6 +24,12 @@ Use this workbook after completing the course to compare your work with the fini
 2. Follow the video until the course transitions to the full dataset.
 3. Continue with the 200-Participant Dataset.
 4. Compare your work with the Completed Course Workbook after finishing the course.
+
+## How to Download a File
+
+1. Click the desired Excel filename displayed above this README.
+2. Click **Download raw file** on the file page.
+3. Open the downloaded file in Microsoft Excel.
 
 ## Dataset Notice
 
